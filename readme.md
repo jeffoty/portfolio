@@ -13,7 +13,7 @@
 <h1 align="center">Hi 👋, I'm Jeff Odhiambo</h1>
 <!-- TODO: Replace with your intro text -->
 <!-- Example: Just graduated from Moringa, readyc  to start my first internship experience! -->
-<h3 align="center">A partner of Moringa, ready to start working with iTalanta open-source!</h3>
+<h3 align="center">I'm passionate about code and ready to contribute to open source projects!</h3>
 
 <br/>
 
@@ -45,20 +45,18 @@
 
 💬 I'm an expert on **software development.**
 
-📄 Know about my experiences [through my CV](about/resume.md)
-
 🌱 I’m currently working on **open source project at italanta **.
 
 ⚡ Fun fact? **I'm a gamer🎮️ and love cycling🚲️**
 
 ### My work
 
-🔭 I’m currently working on [Kujali](https://github.com/jeffoty/kujali)
+🔭 I’m currently working on [Elewa group](https://github.com/jeffoty/elewa-group)
 
 <!-- TODO: Update at the end of every day with your  -->
-🤝 About to score [this bounty](https://github.com/jeffoty/kujali)!
+🤝 About to score [this bounty](https://github.com/jeffoty/elewa-group)!
 
-👨‍💻 Review my projects at [https://github.com/italanta](https://github.com/jeffoty/kujali)
+👨‍💻 Review my projects at [https://github.com/italanta](https://github.com/jeffoty/elewa-group)
 
 ### Interested ?
 
@@ -74,7 +72,7 @@
 <h1>My experience</h1>
 
 <!-- EXPERIENCE I -->
-<h2 align="left">Project Kujali</h2>
+<h2 align="left">Project Elewa Group</h2>
 
 <p align="right"><b>2023</b></p>
 
@@ -89,8 +87,7 @@
 
 | Date     	| Issue 	| Status 	| Link 	|
 |----------	|-------	|--------	|------	|
-| 17/01/23 	| 🏇 Upgrade performance of financial forecasts| Completed | [#0](https://github.com/jeffoty/kujali) |
-| 12/01/23	| 🏇 Upgrade performance of financial forecasts| Closed/Approved | [#0](https://github.com/jeffoty/kujali) |
+| 17/01/23 	| 🏇 Upgrade performance of financial forecasts| Completed | [#1](https://github.com/jeffoty/elewa-group) |
 
 
 ### The technologies I used
@@ -119,11 +116,7 @@
 
 | Date     	| Issue 	| Status 	| Link 	|
 |----------	|-------	|--------	|------	|
-| 26/09/22 	| 🚚🏠⚡ Conversations state and model layer | Merged | [#79](https://github.com/italanta/kujali/issues/79) |
-| 01/08/22 	| 🚀 Add serverless backend capabilities | Merged | [#19](https://github.com/italanta/elewa/pull/19) |
-| 12/07/22 	| 🚀 Setup the application | Merged | [#2](https://github.com/italanta/elewa/pull/2) |
-| 11/07/22 	| 🏠 Data model for story and story blocks | Merged | [#1](https://github.com/italanta/elewa/pull/1) |
-
+| 02/02/23 	| 🚚🏠⚡ Conversations state and model layer | Merged | [#1](https://github.com/italanta/elewa-group/issues/1) |
 
 ### The technologies I used
 
@@ -137,6 +130,10 @@
 <h2 align="left">My GitHub Overview</h2>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jeffoty&show_icons=true&locale=en" alt="jeffoty" /></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jeffoty&show_icons=true&locale=en&layout=compact" alt="allan-ngugi" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jeffoty&" alt="allan-ngugi" /></p>
 
 <!-- END -->
 
