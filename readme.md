@@ -87,8 +87,8 @@
 
 | Date     	| Issue 	| Status 	| Link 	|
 |----------	|-------	|--------	|------	|
-| 17/02/23 	| ✨ feature: social impact reusable banner | Completed | [#25](https://github.com/jeffoty/elewa-group/issues/25) |
-| 24/02/23  | ✨ feature: home page impact section  | Completed  | [#12](https://github.com/jeffoty/elewa-group/issues/12)  |
+| 17/02/23 	| ✨ feature: social impact reusable banner | Completed | [#25](https://github.com/italanta/elewa-group/issues/25) |
+| 24/02/23  | ✨ feature: home page impact section  | Completed  | [#12](https://github.com/italanta/elewa-group/issues/12)  |
 
 
 ### The technologies I used
